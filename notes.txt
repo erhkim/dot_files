@@ -1,2 +1,5 @@
 # to only update AUR pkgs
 yay -Sua
+
+# to add remote origin to an existing repo
+git remote add origin https://github.com/erhkim/dot_files.git
